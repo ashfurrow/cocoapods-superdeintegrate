@@ -14,9 +14,9 @@ module Pod
                     'rm -rf ~/Library/Developer/Xcode/DerivedData',
                     'pod deintegrate || rm -rf Pods']
 
-        commands.each { |command| system(comment) }
+        commands.each { |command| system(command) }
 
-        UI.puts("Finished supdeintegrating directory.")
+        UI.puts("Finished supdeintegrating directory.".green)
       end
     end
   end
