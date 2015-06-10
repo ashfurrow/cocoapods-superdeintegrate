@@ -1,6 +1,8 @@
 # cocoapods-superdeintegrate
 
-A description of cocoapods-superdeintegrate.
+Sometimes you gotta burn it down. 
+
+![Reset everything](/web/idea.jpg)
 
 ## Installation
 
@@ -8,4 +10,4 @@ A description of cocoapods-superdeintegrate.
 
 ## Usage
 
-    $ pod spec superdeintegrate POD_NAME
+    $ pod superdeintegrate
