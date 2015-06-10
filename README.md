@@ -11,3 +11,8 @@ Sometimes you gotta burn it down.
 ## Usage
 
     $ pod superdeintegrate
+
+## Acknowledgements
+
+Built atop the far more interesting [CocoaPods Deintegrate](https://github.com/kylef/cocoapods-deintegrate)
+by [Kyle Fuller](http://twitter.com/kylefuller).
